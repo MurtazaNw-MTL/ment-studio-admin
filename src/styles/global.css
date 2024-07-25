@@ -1,0 +1,47 @@
+:root {
+  --themecol: gray;
+  --themecol2: #1ea1f2;
+
+  --coltheme: #1ea1f2;
+}
+
+.bgtheme {
+  background-color: var(--themecol) !important;
+}
+.bgtheme2 {
+  background-color: var(--themecol2) !important;
+}
+.coltheme {
+  color: var(--themecol2) !important;
+}
+.coltheme2 {
+  color: var(--themecol2) !important;
+}
+.cus-btn {
+  background-color: var(--themecol2) !important;
+  color: white !important;
+}
+
+.metamask {
+  background-color: #1ea1f2 !important;
+  color: white !important;
+  font-weight: bold !important;
+}
+
+.bold {
+  font-weight: bold !important;
+}
+
+.fs16 {
+  font-size: 16px !important;
+}
+.fs18 {
+  font-size: 18px !important;
+}
+
+.fs20 {
+  font-size: 20px !important;
+}
+.fs25 {
+  font-size: 25px !important;
+}
